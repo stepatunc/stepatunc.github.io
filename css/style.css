@@ -574,9 +574,10 @@ padding-top: 80px;
   .greeting {
     width: 60%; }
 
-    .testing img{width: 50vw; height: 60vh; padding-top: 5px; margin-top: 5px; }
+  
    .testing{ margin-top: 10px;}
 .grid-layout { max-height: 100vh;}
+.testing img{padding-top: 5px; margin-top: 5px;
 
 
 }
